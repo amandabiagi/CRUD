@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "crud.jwt.expiration",
+      "type": "java.lang.String",
+      "description": "Description for crud.jwt.expiration."
+  }
+] }
